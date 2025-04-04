@@ -1,0 +1,5 @@
+Comandos para crear una branch:
+git branch "NOMBRE DE LA BRANCH"
+
+Comandos para cambiar de branch:
+git checkout "NOMBRE DE LA BRANCH A CAMBIAR"
