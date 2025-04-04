@@ -1,0 +1,5 @@
+comandos para merge 
+git merge "RAMA QUE QUERES TRAER LOS FOKIN DOCUMENTOS"
+
+si queres que las ramas sean iguales
+git reset --hard "NOMBRE DE LA BRANCH"
