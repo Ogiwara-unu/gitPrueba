@@ -1,0 +1,12 @@
+Este archivo contiene los comandos para pushear un proyecto a git:
+
+git remote add origin https://github.com/Ogiwara-unu/gitPrueba.git
+git branch -M main
+git push -u origin main
+
+
+Estos son los comandos para crear un nuevo repositorio:
+
+git remote add origin https://github.com/Ogiwara-unu/gitPrueba.git
+git branch -M main
+git push -u origin main
